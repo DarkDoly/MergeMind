@@ -18,3 +18,6 @@ WEBHOOK_PROXY_URL = your webhook proxy url
 
 Terminal two command:
 npm run server
+
+VIDEO
+https://youtu.be/sq2kx5jTXRE
